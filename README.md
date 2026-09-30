@@ -2,18 +2,31 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=just+another+CS+student+%F0%9F%A4%A1;building+stuff+%F0%9F%9B%A0%EF%B8%8F;breaking+stuff+%F0%9F%92%80;fixing+stuff+at+2AM+%F0%9F%8C%9A;repeat+%F0%9F%94%81"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=just+another+CS+student+%F0%9F%A4%A1;building+stuff+%F0%9F%9B%A0%EF%B8%8F;breaking+stuff+%F0%9F%92%80;fixing+stuff+at+2AM+%F0%9F%8C%9A;repeat+%F0%9F%94%81"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACG3Pfv687qPC/giphy.gif" width="280">
+  <i>probably debugging something right now...</i> 🐛
 </p>
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,supabase,unity&perline=9" width="720"/>
+</p>
+
+<p align="center">
+  <b>Languages • Tools • Things I somehow got working</b>
+</p>
+
+---
 
 ### 🧠 currently loading...
 
 ```txt
 C / C++ / Python
+
 DSA ............... ███████░░░ 70%
 Backend ........... ████░░░░░░ 40%
 Databases ......... ███░░░░░░░ 30%
@@ -22,18 +35,12 @@ Cloud ............. ██░░░░░░░░ 20%
 
 ### ⚡ me in one line
 
-> `write code → get error → google → fix → somehow create another error`
+> `write code → get error → google → fix → create another error`
 
 💻 software stuff
 🧩 problem solving
 ⚙️ backend curiosity
 🐛 professionally acquainted with bugs
-
-### 🛠️ stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,supabase,unity&perline=9"/>
-</p>
 
 ### 🌱 side quests
 
